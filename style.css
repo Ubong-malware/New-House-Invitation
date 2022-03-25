@@ -1,0 +1,26 @@
+html{
+    background-color: darkgrey;
+}
+.design_color{
+color: firebrick;
+}
+div~ul{
+background-color: blue;
+}
+#first-class{
+    background-color: blue;
+    color: yellow;
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-size: 70px;
+    font-weight: 2000px;
+}
+.second-class{
+    background-color: bisque;
+    color: coral;
+}
+br{
+    background-color: darkkhaki;
+}
+details > li{
+    color: orange
+}
